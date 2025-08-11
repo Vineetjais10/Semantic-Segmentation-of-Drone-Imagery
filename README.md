@@ -39,6 +39,6 @@ Sample RGB segmentation outputs:
 The model takes aerial drone imagery as input, segments it into 24 classes, and generates an RGB map.
 
 
-![Sample Segmentation](https://s3.stackabuse.com/media/guided+projects/deeplabv3-semantic-segmentation-with-keras-3.png)
+![Sample Segmentation](https://s3.stackabuse.com/media/guided+projects/deeplabv3-semantic-segmentation-with-keras-13.png)
 
 
